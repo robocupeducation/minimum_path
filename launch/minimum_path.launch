@@ -1,0 +1,5 @@
+<launch>
+
+  <node pkg="minimum_path" type="dijkstra.py" name="Minimum_Path_Calculator" output="screen" />
+
+</launch>
